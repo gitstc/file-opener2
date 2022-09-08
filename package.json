@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-file-opener2-stc",
+  "version": "1.0.0",
+  "description": "A File Opener Plugin for Cordova.",
+  "cordova": {
+    "id": "cordova-plugin-file-opener2-stc",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitstc/file-opener2.git"
+  },
+  "keywords": [
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitstc/file-opener/issues"
+  },
+  "homepage": "https://github.com/gitstc/file-opener#readme"
+}
